@@ -1,0 +1,6 @@
+@NoventIQ.UserMgmt_HostAddress = http://localhost:5239
+
+GET {{NoventIQ.UserMgmt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
